@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ir.farnoo.salary"
+        }
+    }
+}
